@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Personal_Portfolio/static/css/main.30a7307d.css",
-    "main.js": "/Personal_Portfolio/static/js/main.ab0b79ec.js",
+    "main.css": "/Personal_Portfolio/static/css/main.36eb669e.css",
+    "main.js": "/Personal_Portfolio/static/js/main.18dc57a5.js",
     "static/media/Event-Information.png": "/Personal_Portfolio/static/media/Event-Information.520684343793fb5e7699.png",
     "static/media/Personal-Portfolio.png": "/Personal_Portfolio/static/media/Personal-Portfolio.5967a7ef9b74a7c5099d.png",
     "static/media/about-image.jpg": "/Personal_Portfolio/static/media/about-image.eef7b5dc13d3eeb4cbf0.jpg",
     "static/media/CyberFiction.png": "/Personal_Portfolio/static/media/CyberFiction.d317be43c00bb455b48d.png",
     "static/media/bg-image-.jpg": "/Personal_Portfolio/static/media/bg-image-.a952600d18c9786a7130.jpg",
     "static/media/ME-.jpg": "/Personal_Portfolio/static/media/ME-.20de7522a5da770a10ba.jpg",
-    "static/media/Harshit Verma_Resume.pdf": "/Personal_Portfolio/static/media/Harshit Verma_Resume.eb5f6d597cd740112eae.pdf",
+    "static/media/Harshit Verma_Resume.pdf": "/Personal_Portfolio/static/media/Harshit Verma_Resume.d4f3991d0b54c5a48087.pdf",
     "index.html": "/Personal_Portfolio/index.html",
-    "main.30a7307d.css.map": "/Personal_Portfolio/static/css/main.30a7307d.css.map",
-    "main.ab0b79ec.js.map": "/Personal_Portfolio/static/js/main.ab0b79ec.js.map"
+    "main.36eb669e.css.map": "/Personal_Portfolio/static/css/main.36eb669e.css.map",
+    "main.18dc57a5.js.map": "/Personal_Portfolio/static/js/main.18dc57a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.30a7307d.css",
-    "static/js/main.ab0b79ec.js"
+    "static/css/main.36eb669e.css",
+    "static/js/main.18dc57a5.js"
   ]
 }
