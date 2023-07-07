@@ -3,8 +3,20 @@ import './contact.css'
 import {FiMail} from 'react-icons/fi'
 import {BiLogoTelegram} from 'react-icons/bi'
 import {BsWhatsapp} from 'react-icons/bs'
+import { useRef } from 'react';
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_lgbmjb3', 'template_boxi8sv', form.current, 'uv5e-MVpSxL6Ju9vu')
+
+    e.target.reset();
+  };
+
   return (
     <section id='contact'>
       <h5>Get In Touch</h5>
@@ -35,7 +47,7 @@ const Contact = () => {
         </div>
         {/* END OF CONTACT OPTIONS */ }
 
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder="Full Name" required />
           <input type="email" name="email" placeholder="Email" required />
           <textarea name="message" rows="7" placeholder='Message' required ></textarea>
