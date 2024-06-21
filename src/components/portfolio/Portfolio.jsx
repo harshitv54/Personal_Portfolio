@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/CyberFiction.png'
-import IMG2 from '../../assets/Personal-Portfolio.png'
+import IMG2 from '../../assets/Coffee-House.jpg'
 import IMG3 from '../../assets/Event-Information.png'
 
 const data = [
@@ -15,9 +15,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Personal Portfolio',
-    github: 'https://github.com/harshitv54/Personal_Portfolio',
-    demo: 'https://harshitv54.github.io/Personal_Portfolio'
+    title: 'Coffee House App',
+    github: 'https://github.com/harshitv54/coffee_house-react-native',
+    demo: 'https://github.com/harshitv54/coffee_house-react-native/releases/tag/Releases'
   },
   {
     id: 3,

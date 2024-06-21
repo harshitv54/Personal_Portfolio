@@ -15,14 +15,14 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>React.Js</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>CSS</h4>
+                <h4>React Native</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -36,7 +36,21 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React.Js</h4>
+                <h4>Redux.Js</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Redux Toolkit</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>RESTful APIs</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -50,14 +64,14 @@ const Experience = () => {
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'  />
                 <div>
-                  <h4>Python</h4>
-                  <small className='text-light'>Basic</small>
+                  <h4>Postman</h4>
+                  <small className='text-light'>Intermediate</small>
                 </div>
               </article>
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon' />
                 <div>
-                  <h4>C/C++</h4>
+                  <h4>Android Studio / XCode</h4>
                   <small className='text-light'>Intermediate</small>
                 </div>
               </article>
